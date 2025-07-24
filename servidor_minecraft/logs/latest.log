@@ -208,3 +208,24 @@ java.lang.NullPointerException: Cannot invoke "io.github.thebusybiscuit.slimefun
 [18:00:30] [Server thread/INFO]: pogo[/127.234.176.72:46415] logged in with entity id 88 at ([world]184.85407538596488, 64.5, -1336.772883520234)
 [18:00:53] [Server thread/INFO]: Villager Villager['Villager'/139, uuid='5d068372-c8c6-45a1-bbef-1ca7b801035b', l='ServerLevel[world]', x=174.38, y=75.00, z=-1241.61, cpos=[10, -78], tl=428, v=true] died, message: 'Villager was slain by Zombie'
 [18:05:01] [Server thread/INFO]: Made pogo a server operator
+[18:07:17] [User Authenticator #1/INFO]: UUID of player Lymm is bf65220b-fc2a-3050-81c7-47154c27f3f2
+[18:07:20] [Server thread/INFO]: Lymm joined the game
+[18:07:20] [Server thread/INFO]: Lymm[/127.250.25.191:48649] logged in with entity id 1951 at ([world]51.75631407614214, -11.0, -1108.9806635531488)
+[18:07:52] [Async Chat Thread - #1/INFO]: [Not Secure] <Lymm> ENCONTRASTE LA CASA
+[18:07:55] [Async Chat Thread - #1/INFO]: [Not Secure] <Lymm> ????
+[18:08:05] [Async Chat Thread - #0/INFO]: [Not Secure] <pogo> no
+[18:08:12] [Async Chat Thread - #0/INFO]: [Not Secure] <Lymm> te hago tp
+[18:08:21] [Async Chat Thread - #0/INFO]: [Not Secure] <pogo> dale
+[18:08:31] [Server thread/INFO]: Lymm issued server command: /tp pogo Lymm
+[18:08:31] [Server thread/INFO]: [Lymm: Teleported pogo to Lymm]
+[18:08:38] [Server thread/INFO]: pogo has made the advancement [Isn't It Iron Pick]
+[18:08:57] [Async Chat Thread - #0/INFO]: [Not Secure] <Lymm> teni diamantes
+[18:09:03] [Async Chat Thread - #1/INFO]: [Not Secure] <Lymm> y en el hoyo
+[18:09:08] [Async Chat Thread - #1/INFO]: [Not Secure] <Lymm> esta la, zona de cofres
+[18:09:17] [Async Chat Thread - #1/INFO]: [Not Secure] <Lymm> ahi hay caleta de hoerro
+[18:09:21] [Async Chat Thread - #0/INFO]: [Not Secure] <Lymm> en los hornos
+[18:09:58] [Async Chat Thread - #1/INFO]: [Not Secure] <Lymm> yo voy a almorzaR
+[18:10:12] [Server thread/INFO]: Lymm lost connection: Disconnected
+[18:10:12] [Server thread/INFO]: Lymm left the game
+[18:11:39] [Server thread/INFO]: pogo lost connection: Disconnected
+[18:11:39] [Server thread/INFO]: pogo left the game
