@@ -264,3 +264,20 @@ java.lang.NullPointerException: Cannot invoke "io.github.thebusybiscuit.slimefun
 [21:37:19] [Server thread/INFO]: pogo[/127.234.176.72:46089] logged in with entity id 15970 at ([world]84.1761688303933, 67.0, -1126.1021200149653)
 [21:37:39] [Async Chat Thread - #2/INFO]: [Not Secure] <Lymm> buena loco
 [21:38:12] [Async Chat Thread - #2/INFO]: [Not Secure] <pogo> buena mi broder
+[21:39:00] [Server thread/INFO]: pogo has made the advancement [Acquire Hardware]
+[21:39:46] [Server thread/INFO]: Lymm was slain by Rift Cicada
+[21:40:04] [Async Chat Thread - #4/INFO]: [Not Secure] <Lymm> ola+
+[21:43:35] [Server thread/INFO]: Named entity Endermite['Rift Cicada'/14698, uuid='0bd1e94e-70d7-4574-8e00-f10979933be6', l='ServerLevel[world]', x=-16.84, y=297.00, z=-1259.49, cpos=[-2, -79], tl=17757, v=true] died: Rift Cicada was slain by Lymm
+[21:47:20] [Async Chat Thread - #6/INFO]: [Not Secure] <Lymm> dc??
+[21:47:43] [Async Chat Thread - #6/INFO]: [Not Secure] <pogo> dc
+[21:53:29] [Server thread/INFO]: Lymm has made the advancement [Voluntary Exile]
+[21:55:20] [Server thread/INFO]: pogo has made the advancement [Diamonds!]
+[21:59:28] [Server thread/INFO]: pogo has made the advancement [Not Today, Thank You]
+[21:59:48] [Server thread/INFO]: pogo was shot by Skeleton
+[22:02:04] [Server thread/INFO]: Lymm issued server command: /tp pogo Lymm
+[22:02:04] [Server thread/INFO]: [Lymm: Teleported pogo to Lymm]
+[22:04:21] [Server thread/INFO]: Lymm issued server command: /tp pogo
+[22:04:21] [Server thread/INFO]: [Lymm: Teleported Lymm to pogo]
+[22:05:13] [Server thread/INFO]: Lymm issued server command: /tp pogo Lymm
+[22:05:13] [Server thread/INFO]: [Lymm: Teleported pogo to Lymm]
+[22:08:19] [Server thread/INFO]: pogo has made the advancement [Suit Up]
