@@ -256,3 +256,11 @@ java.lang.NullPointerException: Cannot invoke "io.github.thebusybiscuit.slimefun
 [21:15:20] [Paper Common Worker #0/WARN]: Empty height range: [-55 absolute--60 absolute]
 [21:24:51] [Server thread/INFO]: Lymm lost connection: Disconnected
 [21:24:51] [Server thread/INFO]: Lymm left the game
+[21:28:40] [User Authenticator #4/INFO]: UUID of player Lymm is bf65220b-fc2a-3050-81c7-47154c27f3f2
+[21:28:41] [Server thread/INFO]: Lymm joined the game
+[21:28:41] [Server thread/INFO]: Lymm[/127.250.25.191:60255] logged in with entity id 14486 at ([world]88.59442439819696, 43.0, -1145.5307220557677)
+[21:37:17] [User Authenticator #5/INFO]: UUID of player pogo is 865e7434-427a-32e2-9b36-6f53c649d488
+[21:37:19] [Server thread/INFO]: pogo joined the game
+[21:37:19] [Server thread/INFO]: pogo[/127.234.176.72:46089] logged in with entity id 15970 at ([world]84.1761688303933, 67.0, -1126.1021200149653)
+[21:37:39] [Async Chat Thread - #2/INFO]: [Not Secure] <Lymm> buena loco
+[21:38:12] [Async Chat Thread - #2/INFO]: [Not Secure] <pogo> buena mi broder
