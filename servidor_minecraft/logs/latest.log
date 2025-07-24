@@ -229,3 +229,16 @@ java.lang.NullPointerException: Cannot invoke "io.github.thebusybiscuit.slimefun
 [18:10:12] [Server thread/INFO]: Lymm left the game
 [18:11:39] [Server thread/INFO]: pogo lost connection: Disconnected
 [18:11:39] [Server thread/INFO]: pogo left the game
+[19:14:16] [User Authenticator #2/INFO]: UUID of player pogo is 865e7434-427a-32e2-9b36-6f53c649d488
+[19:14:18] [Server thread/INFO]: pogo joined the game
+[19:14:18] [Server thread/INFO]: pogo[/127.234.176.72:50239] logged in with entity id 2867 at ([world]87.5, 67.0, -1130.5)
+[19:15:34] [Server thread/INFO]: pogo was shot by Pillager
+[19:15:46] [Server thread/INFO]: pogo was shot by Pillager
+[19:15:56] [Server thread/INFO]: pogo was shot by Pillager
+[19:16:15] [Server thread/INFO]: pogo was shot by Pillager
+[19:16:38] [Server thread/INFO]: pogo was shot by Pillager
+[19:16:50] [Server thread/INFO]: pogo was shot by Pillager
+[19:16:58] [Server thread/INFO]: pogo was shot by Pillager
+[19:17:08] [Server thread/INFO]: pogo was shot by Pillager
+[19:17:16] [Server thread/INFO]: pogo has made the advancement [Monster Hunter]
+[19:17:17] [Server thread/INFO]: pogo was shot by Pillager
