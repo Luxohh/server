@@ -213,3 +213,10 @@ java.lang.NullPointerException: Cannot invoke "io.github.thebusybiscuit.slimefun
 [16:07:48] [Paper Common Worker #0/WARN]: Empty height range: [-55 absolute--60 absolute]
 [16:07:48] [Paper Common Worker #0/WARN]: Empty height range: [-55 absolute--60 absolute]
 [16:07:48] [Paper Common Worker #0/WARN]: Empty height range: [-55 absolute--60 absolute]
+[16:09:53] [Server thread/INFO]: Lymm lost connection: Disconnected
+[16:09:53] [Server thread/INFO]: Lymm left the game
+[16:14:07] [User Authenticator #1/INFO]: UUID of player Lymm is bf65220b-fc2a-3050-81c7-47154c27f3f2
+[16:14:07] [Server thread/INFO]: Lymm (/127.121.36.214:33043) lost connection: Disconnected
+[16:14:13] [User Authenticator #1/INFO]: UUID of player Lymm is bf65220b-fc2a-3050-81c7-47154c27f3f2
+[16:14:15] [Server thread/INFO]: Lymm joined the game
+[16:14:15] [Server thread/INFO]: Lymm[/127.121.36.214:40723] logged in with entity id 2735 at ([world]78.81079684685336, 67.0, -1125.9904407596691)
