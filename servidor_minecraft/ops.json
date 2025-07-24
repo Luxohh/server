@@ -4,5 +4,11 @@
     "name": "Lymm",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "865e7434-427a-32e2-9b36-6f53c649d488",
+    "name": "pogo",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

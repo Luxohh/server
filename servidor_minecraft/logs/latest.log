@@ -202,3 +202,9 @@ java.lang.NullPointerException: Cannot invoke "io.github.thebusybiscuit.slimefun
 [17:47:13] [Server thread/INFO]: [dough: protection] Loading Protection Modules...
 [17:47:13] [Server thread/INFO]: [dough: protection] This may happen more than once.
 [17:47:13] [Server thread/INFO]: Done (33.078s)! For help, type "help"
+[18:00:26] [User Authenticator #0/INFO]: UUID of player pogo is 865e7434-427a-32e2-9b36-6f53c649d488
+[18:00:30] [Server thread/INFO]: pogo joined the game
+[18:00:30] [Server thread/INFO]: pogo has made the advancement [New in Town]
+[18:00:30] [Server thread/INFO]: pogo[/127.234.176.72:46415] logged in with entity id 88 at ([world]184.85407538596488, 64.5, -1336.772883520234)
+[18:00:53] [Server thread/INFO]: Villager Villager['Villager'/139, uuid='5d068372-c8c6-45a1-bbef-1ca7b801035b', l='ServerLevel[world]', x=174.38, y=75.00, z=-1241.61, cpos=[10, -78], tl=428, v=true] died, message: 'Villager was slain by Zombie'
+[18:05:01] [Server thread/INFO]: Made pogo a server operator
