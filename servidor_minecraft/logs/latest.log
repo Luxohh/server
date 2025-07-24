@@ -248,3 +248,6 @@ java.lang.NullPointerException: Cannot invoke "io.github.thebusybiscuit.slimefun
 [19:19:45] [Server thread/INFO]: pogo was shot by Pillager
 [19:57:06] [Server thread/INFO]: pogo lost connection: Disconnected
 [19:57:06] [Server thread/INFO]: pogo left the game
+[20:52:48] [User Authenticator #3/INFO]: UUID of player Lymm is bf65220b-fc2a-3050-81c7-47154c27f3f2
+[20:52:50] [Server thread/INFO]: Lymm joined the game
+[20:52:50] [Server thread/INFO]: Lymm[/127.250.25.191:56191] logged in with entity id 8857 at ([world]84.58229535757901, 69.0, -1128.391799578136)
