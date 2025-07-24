@@ -1,0 +1,215 @@
+[15:48:08] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[15:48:08] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[15:48:09] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[15:48:10] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
+[15:48:10] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+ - Minepacks (2.4.32.4-T20250718161642)
+[15:48:10] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+ - Slimefun (Experimental - 2)
+[15:48:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:48:26] [Worker-Main-1/ERROR]: Couldn't parse data file 'pk_waystones:waystone/andesite' from 'pk_waystones:recipe/waystone/andesite.json': DataResult.Error['Not a JSON object: 11130032 missed input: {"minecraft:custom_model_data":11130032}; Map entry 'E' : Failed to parse either. First: Not a string: {"item":"minecraft:ender_eye"}; Second: Failed to parse either. First: Not a json array: {"item":"minecraft:ender_eye"}; Second: Not a string: {"item":"minecraft:ender_eye"}']
+[15:48:26] [Worker-Main-1/ERROR]: Couldn't parse data file 'pk_waystones:waystone/copper' from 'pk_waystones:recipe/waystone/copper.json': DataResult.Error['Not a JSON object: 11130037 missed input: {"minecraft:custom_model_data":11130037}; Map entry 'E' : Failed to parse either. First: Not a string: {"item":"minecraft:ender_eye"}; Second: Failed to parse either. First: Not a json array: {"item":"minecraft:ender_eye"}; Second: Not a string: {"item":"minecraft:ender_eye"}']
+[15:48:26] [Worker-Main-1/ERROR]: Couldn't parse data file 'pk_waystones:waystone/deepslate' from 'pk_waystones:recipe/waystone/deepslate.json': DataResult.Error['Not a JSON object: 11130035 missed input: {"minecraft:custom_model_data":11130035}; Map entry 'E' : Failed to parse either. First: Not a string: {"item":"minecraft:ender_eye"}; Second: Failed to parse either. First: Not a json array: {"item":"minecraft:ender_eye"}; Second: Not a string: {"item":"minecraft:ender_eye"}']
+[15:48:26] [Worker-Main-1/ERROR]: Couldn't parse data file 'pk_waystones:waystone/mossy' from 'pk_waystones:recipe/waystone/mossy.json': DataResult.Error['Not a JSON object: 11130036 missed input: {"minecraft:custom_model_data":11130036}; Map entry 'E' : Failed to parse either. First: Not a string: {"item":"minecraft:ender_eye"}; Second: Failed to parse either. First: Not a json array: {"item":"minecraft:ender_eye"}; Second: Not a string: {"item":"minecraft:ender_eye"}']
+[15:48:27] [Worker-Main-1/ERROR]: Couldn't parse data file 'pk_waystones:waystone/nether' from 'pk_waystones:recipe/waystone/nether.json': DataResult.Error['Not a JSON object: 11130034 missed input: {"minecraft:custom_model_data":11130034}; Map entry 'E' : Failed to parse either. First: Not a string: {"item":"minecraft:ender_eye"}; Second: Failed to parse either. First: Not a json array: {"item":"minecraft:ender_eye"}; Second: Not a string: {"item":"minecraft:ender_eye"}']
+[15:48:27] [Worker-Main-1/ERROR]: Couldn't parse data file 'pk_waystones:waystone/prismarine' from 'pk_waystones:recipe/waystone/prismarine.json': DataResult.Error['Not a JSON object: 11130038 missed input: {"minecraft:custom_model_data":11130038}; Map entry 'E' : Failed to parse either. First: Not a string: {"item":"minecraft:ender_eye"}; Second: Failed to parse either. First: Not a json array: {"item":"minecraft:ender_eye"}; Second: Not a string: {"item":"minecraft:ender_eye"}']
+[15:48:27] [Worker-Main-1/ERROR]: Couldn't parse data file 'pk_waystones:waystone/sand' from 'pk_waystones:recipe/waystone/sand.json': DataResult.Error['Not a JSON object: 11130033 missed input: {"minecraft:custom_model_data":11130033}; Map entry 'E' : Failed to parse either. First: Not a string: {"item":"minecraft:ender_eye"}; Second: Failed to parse either. First: Not a json array: {"item":"minecraft:ender_eye"}; Second: Not a string: {"item":"minecraft:ender_eye"}']
+[15:48:27] [Worker-Main-1/ERROR]: Couldn't parse data file 'pk_waystones:waystone/tuff' from 'pk_waystones:recipe/waystone/tuff.json': DataResult.Error['Not a JSON object: 11130039 missed input: {"minecraft:custom_model_data":11130039}; Map entry 'E' : Failed to parse either. First: Not a string: {"item":"minecraft:ender_eye"}; Second: Failed to parse either. First: Not a json array: {"item":"minecraft:ender_eye"}; Second: Not a string: {"item":"minecraft:ender_eye"}']
+[15:48:28] [ServerMain/INFO]: Loaded 1411 recipes
+[15:48:28] [ServerMain/ERROR]: Failed to load function pk_waystones:blocks/waystone/place/data/render_item
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 4: Malformed 'minecraft:enchantments' component: 'Not a number; Failed to get element minecraft:levels missed input: {levels:{"minecraft:silk_touch":1}}' at position 99: ...hantments=<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.lambda$prepareTasks$0(SimpleReloadInstance.java:69) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1423) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4: Malformed 'minecraft:enchantments' component: 'Not a number; Failed to get element minecraft:levels missed input: {levels:{"minecraft:silk_touch":1}}' at position 99: ...hantments=<--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 7 more
+[15:48:28] [ServerMain/INFO]: Loaded 1859 advancements
+[15:48:28] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[15:48:29] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 761.4ms
+[15:48:29] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[15:48:29] [Server thread/INFO]: Loading properties
+[15:48:29] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[15:48:29] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[15:48:29] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:48:29] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:48:30] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[15:48:30] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[15:48:30] [Server thread/INFO]: Default game type: SURVIVAL
+[15:48:30] [Server thread/INFO]: Generating keypair
+[15:48:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:48:30] [Server thread/INFO]: Using epoll channel type
+[15:48:30] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[15:48:30] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[15:48:31] [Server thread/INFO]: [Minepacks] PCGF-PluginLib not installed. Switching to standalone mode!
+[15:48:31] [Server thread/INFO]: [Minepacks] Loading server plugin Minepacks v2.4.32.4-T20250718161642
+[15:48:31] [Server thread/INFO]: [Slimefun] Loading server plugin Slimefun vExperimental - 2
+[15:48:31] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:48:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:48:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:48:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:48:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:48:31] [Server thread/INFO]: Preparing level "world"
+[15:48:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:48:33] [Server thread/INFO]: Preparing spawn area: 0%
+[15:48:33] [Server thread/INFO]: Preparing spawn area: 0%
+[15:48:33] [Server thread/INFO]: Preparing spawn area: 2%
+[15:48:34] [Server thread/INFO]: Preparing spawn area: 18%
+[15:48:34] [Server thread/INFO]: Preparing spawn area: 18%
+[15:48:34] [Server thread/INFO]: Time elapsed: 2151 ms
+[15:48:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:48:34] [Server thread/INFO]: Preparing spawn area: 0%
+[15:48:35] [Server thread/INFO]: Preparing spawn area: 44%
+[15:48:35] [Server thread/INFO]: Time elapsed: 676 ms
+[15:48:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:48:35] [Server thread/INFO]: Preparing spawn area: 0%
+[15:48:35] [Server thread/INFO]: Time elapsed: 352 ms
+[15:48:35] [Server thread/INFO]: [Minepacks] Enabling Minepacks v2.4.32.4-T20250718161642
+[15:48:35] [Server thread/INFO]: [Minepacks] Starting Minepacks in standalone mode!
+[15:48:36] [Server thread/INFO]: [Minepacks] Config file successfully loaded.
+[15:48:36] [Server thread/WARN]: [Minepacks] Paper support is experimental! Use at your own risk!
+[15:48:36] [Server thread/WARN]: [Minepacks] No guarantee for data integrity! Backup constantly!
+[15:48:36] [Server thread/INFO]: [Minepacks] Language file successfully loaded. Language: english  Author: GeorgH93
+[15:48:36] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Starting...
+[15:48:36] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Start completed.
+[15:48:37] [Server thread/INFO]: [Minepacks] Item name language file successfully loaded. Language: english  Author: GeorgH93
+[15:48:37] [Server thread/INFO]: [Minepacks] Loading item translations ...
+[15:48:37] [Server thread/INFO]: [Minepacks] Finished loading item translations for 826 items.
+[15:48:37] [Server thread/INFO]: [Minepacks]  Minepacks has been enabled!  :) 
+[15:48:37] [Server thread/INFO]: [Slimefun] Enabling Slimefun vExperimental - 2
+[15:48:37] [Server thread/INFO]: [Slimefun] Paper was detected! Performance optimizations have been applied.
+[15:48:37] [Server thread/INFO]: [Slimefun] Creating directories...
+[15:48:37] [Server thread/INFO]: [Slimefun] Loading language files...
+[15:48:37] [Server thread/ERROR]: [dough: skins] Failed to detect skull nbt methods
+java.lang.NoSuchMethodException: net.minecraft.server.level.ServerLevel.getBlockEntity(net.minecraft.core.BlockPos,boolean)
+	at java.base/java.lang.Class.getMethod(Class.java:2395) ~[?:?]
+	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.getMethod(AbstractDefaultRulesReflectionProxy.java:100) ~[reflection-rewriter-runtime-0.0.3.jar:?]
+	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.getMethod(Unknown Source) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at Slimefun4-Experimental.jar/io.github.thebusybiscuit.slimefun4.libraries.dough.skins.nms.PlayerHeadAdapter20v5.<init>(PlayerHeadAdapter20v5.java:33) ~[Slimefun4-Experimental.jar:?]
+	at Slimefun4-Experimental.jar/io.github.thebusybiscuit.slimefun4.libraries.dough.skins.nms.PlayerHeadAdapter.get(PlayerHeadAdapter.java:28) ~[Slimefun4-Experimental.jar:?]
+	at Slimefun4-Experimental.jar/io.github.thebusybiscuit.slimefun4.libraries.dough.skins.PlayerHead.<clinit>(PlayerHead.java:23) ~[Slimefun4-Experimental.jar:?]
+	at Slimefun4-Experimental.jar/io.github.thebusybiscuit.slimefun4.utils.SlimefunUtils.getCustomHead(SlimefunUtils.java:245) ~[Slimefun4-Experimental.jar:?]
+	at Slimefun4-Experimental.jar/io.github.thebusybiscuit.slimefun4.core.services.localization.Language.<init>(Language.java:52) ~[Slimefun4-Experimental.jar:?]
+	at Slimefun4-Experimental.jar/io.github.thebusybiscuit.slimefun4.core.services.LocalizationService.<init>(LocalizationService.java:67) ~[Slimefun4-Experimental.jar:?]
+	at Slimefun4-Experimental.jar/io.github.thebusybiscuit.slimefun4.implementation.Slimefun.onPluginStart(Slimefun.java:300) ~[Slimefun4-Experimental.jar:?]
+	at Slimefun4-Experimental.jar/io.github.thebusybiscuit.slimefun4.implementation.Slimefun.onEnable(Slimefun.java:241) ~[Slimefun4-Experimental.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:280) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:651) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:607) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:743) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:488) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:280) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1164) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:48:37] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:48:38] [Server thread/INFO]: [Slimefun] Loaded language "en"
+[15:48:38] [Server thread/INFO]: [Slimefun] Available languages: en, de, fr, it, es, ru, pl, uk, sv, nl, da, cs, ro, bg, pt, pt-BR, hu, lv, sk, vi, id, zh-CN, zh-TW, ja, ko, he, ar, tr, fa, th, tl
+[15:48:38] [Server thread/INFO]: [Slimefun] Using legacy storage for player data
+[15:48:38] [Server thread/INFO]: [Slimefun] Enabled Analytics Service
+[15:48:38] [Slimefun Metrics/INFO]: [Slimefun] MetricsModule does not exist, downloading...
+[15:48:38] [Server thread/INFO]: [Slimefun] Starting Auto-Updater...
+[15:48:38] [Server thread/WARN]: [Slimefun] #######################################################
+[15:48:38] [Server thread/WARN]: [Slimefun] It looks like you are using an unofficially modified build of Slimefun!
+[15:48:38] [Server thread/WARN]: [Slimefun] Auto-Updates have been disabled, this build is not considered safe.
+[15:48:38] [Server thread/WARN]: [Slimefun] Do not report bugs encountered in this Version of Slimefun to any official sources.
+[15:48:38] [Server thread/WARN]: [Slimefun] #######################################################
+[15:48:38] [Server thread/INFO]: [Slimefun] Loading GEO-Resources...
+[15:48:39] [Slimefun Metrics/INFO]: [Slimefun] # Starting download of MetricsModule build: #29
+[15:48:39] [Server thread/INFO]: [Slimefun] Loading Tags...
+[15:48:39] [Server thread/INFO]: [Slimefun] Loading items...
+[15:48:39] [Slimefun Metrics/WARN]: [Slimefun] Failed to download the latest jar file from GitHub. Response code: 302
+[15:48:39] [Slimefun Metrics/WARN]: [Slimefun] Failed to start metrics as the file could not be downloaded.
+[15:48:40] [Server thread/ERROR]: [Slimefun] An Error occurred while initializing SlimefunItems for Slimefun Experimental - 2
+java.lang.IllegalArgumentException: Cannot send a warning for an unregistered item!
+	at Slimefun4-Experimental.jar/io.github.thebusybiscuit.slimefun4.libraries.commons.lang.Validate.notNull(Validate.java:192) ~[Slimefun4-Experimental.jar:?]
+	at Slimefun4-Experimental.jar/io.github.thebusybiscuit.slimefun4.api.items.SlimefunItem.warn(SlimefunItem.java:986) ~[Slimefun4-Experimental.jar:?]
+	at Slimefun4-Experimental.jar/io.github.thebusybiscuit.slimefun4.implementation.items.multiblocks.TableSaw.getPlanks(TableSaw.java:92) ~[Slimefun4-Experimental.jar:?]
+	at Slimefun4-Experimental.jar/io.github.thebusybiscuit.slimefun4.implementation.items.multiblocks.TableSaw.<init>(TableSaw.java:58) ~[Slimefun4-Experimental.jar:?]
+	at Slimefun4-Experimental.jar/io.github.thebusybiscuit.slimefun4.implementation.setup.SlimefunItemSetup.setup(SlimefunItemSetup.java:1076) ~[Slimefun4-Experimental.jar:?]
+	at Slimefun4-Experimental.jar/io.github.thebusybiscuit.slimefun4.implementation.Slimefun.loadItems(Slimefun.java:696) ~[Slimefun4-Experimental.jar:?]
+	at Slimefun4-Experimental.jar/io.github.thebusybiscuit.slimefun4.implementation.Slimefun.onPluginStart(Slimefun.java:336) ~[Slimefun4-Experimental.jar:?]
+	at Slimefun4-Experimental.jar/io.github.thebusybiscuit.slimefun4.implementation.Slimefun.onEnable(Slimefun.java:241) ~[Slimefun4-Experimental.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:280) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:651) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:607) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:743) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:488) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:280) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1164) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:48:40] [Server thread/INFO]: [Slimefun] Loading researches...
+[15:48:40] [Server thread/INFO]: [Slimefun] Loading Wiki pages...
+[15:48:40] [Server thread/INFO]: [Slimefun] Registering listeners...
+[15:48:40] [Server thread/INFO]: [Slimefun] Loading Third-Party plugin integrations...
+[15:48:40] [Server thread/INFO]: [Slimefun] Slimefun has finished loading in 3.22s
+[15:48:40] [Server thread/INFO]: [spark] Starting background profiler...
+[15:48:41] [Server thread/INFO]: Done preparing level "world" (9.726s)
+[15:48:41] [Server thread/INFO]: Running delayed init tasks
+[15:48:41] [Server thread/INFO]: [Slimefun] Collecting Snapshots of all Recipes...
+[15:48:41] [Server thread/INFO]: [Slimefun] Found 1,411 Recipes!
+[15:48:41] [Server thread/ERROR]: [Slimefun] Item "STAFF_ELEMENTAL_STORM" from Slimefun vExperimental - 2 has caused an Error!
+[15:48:41] [Server thread/ERROR]: [Slimefun] You can report it here: https://github.com/Slimefun/Slimefun4/issues
+[15:48:41] [Server thread/ERROR]: [Slimefun] Failed to properly load this Item
+java.lang.NullPointerException: Cannot invoke "io.github.thebusybiscuit.slimefun4.implementation.items.altar.AncientAltar.getRecipes()" because "altar" is null
+	at Slimefun4-Experimental.jar/io.github.thebusybiscuit.slimefun4.api.recipes.RecipeType.lambda$static$0(RecipeType.java:54) ~[Slimefun4-Experimental.jar:?]
+	at Slimefun4-Experimental.jar/io.github.thebusybiscuit.slimefun4.api.recipes.RecipeType.register(RecipeType.java:119) ~[Slimefun4-Experimental.jar:?]
+	at Slimefun4-Experimental.jar/io.github.thebusybiscuit.slimefun4.api.items.SlimefunItem.load(SlimefunItem.java:775) ~[Slimefun4-Experimental.jar:?]
+	at Slimefun4-Experimental.jar/io.github.thebusybiscuit.slimefun4.implementation.setup.PostSetup.loadItems(PostSetup.java:74) ~[Slimefun4-Experimental.jar:?]
+	at Slimefun4-Experimental.jar/io.github.thebusybiscuit.slimefun4.implementation.tasks.SlimefunStartupTask.run(SlimefunStartupTask.java:49) ~[Slimefun4-Experimental.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1176) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:48:41] [Server thread/INFO]: 
+[15:48:41] [Server thread/INFO]: ######################### - Slimefun vExperimental - 2 - #########################
+[15:48:41] [Server thread/INFO]: 
+[15:48:41] [Server thread/INFO]: Successfully loaded 231 Items and 258 Researches
+[15:48:41] [Server thread/INFO]: ( 231 Items from Slimefun, 0 Items from 0 Addons )
+[15:48:41] [Server thread/INFO]: 
+[15:48:41] [Server thread/INFO]: Slimefun is an Open-Source project that is kept alive by a large community.
+[15:48:41] [Server thread/INFO]: Consider helping us maintain this project by contributing on GitHub!
+[15:48:41] [Server thread/INFO]:  - UNOFFICIALLY MODIFIED BUILD - NO OFFICIAL SUPPORT GIVEN
+[15:48:41] [Server thread/INFO]: 
+[15:48:41] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world"
+[15:48:41] [Server thread/INFO]: [Slimefun] This may take a long time...
+[15:48:41] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 0ms)
+[15:48:41] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "world"
+[15:48:41] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world_nether"
+[15:48:41] [Server thread/INFO]: [Slimefun] This may take a long time...
+[15:48:41] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 0ms)
+[15:48:41] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "world_nether"
+[15:48:41] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world_the_end"
+[15:48:41] [Server thread/INFO]: [Slimefun] This may take a long time...
+[15:48:41] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 0ms)
+[15:48:41] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "world_the_end"
+[15:48:41] [Server thread/INFO]: [dough: protection] Loading Protection Modules...
+[15:48:41] [Server thread/INFO]: [dough: protection] This may happen more than once.
+[15:48:41] [Server thread/INFO]: Done (34.850s)! For help, type "help"
+[15:53:20] [User Authenticator #0/INFO]: UUID of player Lymm is bf65220b-fc2a-3050-81c7-47154c27f3f2
+[15:53:24] [Server thread/INFO]: Lymm joined the game
+[15:53:24] [Server thread/INFO]: Lymm[/127.121.36.214:55991] logged in with entity id 88 at ([world]82.5, 67.0, -1123.5)
+[15:53:39] [Server thread/INFO]: [Lymm: Set own game mode to Survival Mode]
+[15:54:05] [Server thread/INFO]: Lymm issued server command: /slimefun
+[15:54:12] [Server thread/INFO]: Lymm issued server command: /slimefun guide
+[15:54:49] [Server thread/INFO]: Villager Villager['Villager'/338, uuid='b6303fd8-6b70-4008-9649-84388b7566aa', l='ServerLevel[world]', x=178.73, y=72.56, z=-1265.31, cpos=[11, -80], tl=1600, v=true] died, message: 'Villager suffocated in a wall'
+[16:07:48] [Paper Common Worker #0/WARN]: Empty height range: [-55 absolute--60 absolute]
+[16:07:48] [Paper Common Worker #0/WARN]: Empty height range: [-55 absolute--60 absolute]
+[16:07:48] [Paper Common Worker #0/WARN]: Empty height range: [-55 absolute--60 absolute]

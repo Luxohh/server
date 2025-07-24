@@ -1,0 +1,2270 @@
+GRANDMAS_WALKING_STICK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+GRANDPAS_WALKING_STICK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+PORTABLE_CRAFTER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+FORTUNE_COOKIE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+DIET_COOKIE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+OUTPUT_CHEST:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+ENHANCED_CRAFTING_TABLE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+PORTABLE_DUSTBIN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+BEEF_JERKY:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+  saturation-level: 6
+PORK_JERKY:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+  saturation-level: 6
+CHICKEN_JERKY:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+  saturation-level: 6
+MUTTON_JERKY:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+  saturation-level: 6
+RABBIT_JERKY:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+  saturation-level: 6
+FISH_JERKY:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+  saturation-level: 6
+KELP_COOKIE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+GRIND_STONE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+ARMOR_FORGE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+ORE_CRUSHER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+  double-ores: true
+COMPRESSOR:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+MAGIC_LUMP_1:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+MAGIC_LUMP_2:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+MAGIC_LUMP_3:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+ENDER_LUMP_1:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+ENDER_LUMP_2:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+ENDER_LUMP_3:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+ENDER_BACKPACK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+ENDER_HELMET:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+ENDER_CHESTPLATE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+ENDER_LEGGINGS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+ENDER_BOOTS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+MAGIC_EYE_OF_ENDER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+MAGIC_SUGAR:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+MONSTER_JERKY:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+SLIME_HELMET:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+SLIME_CHESTPLATE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+SLIME_LEGGINGS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+SLIME_BOOTS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+SWORD_OF_BEHEADING:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+  chance:
+    CREEPER: 40
+    PLAYER: 70
+    PIGLIN: 40
+    SKELETON: 40
+    WITHER_SKELETON: 25
+    ZOMBIE: 40
+MAGICAL_BOOK_COVER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+MAGICAL_GLASS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+BASIC_CIRCUIT_BOARD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+  drop-from-golems: true
+  golem-drop-chance: 75
+ADVANCED_CIRCUIT_BOARD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+GOLD_PAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+  chance:
+    IRON_NUGGET: 5
+    SIFTED_ORE: 35
+    CLAY: 20
+    FLINT: 40
+NETHER_GOLD_PAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+  chance:
+    QUARTZ: 50
+    NETHER_WART: 10
+    BLAZE_POWDER: 8
+    GOLD_NUGGET: 25
+    GLOWSTONE_DUST: 5
+    GHAST_TEAR: 2
+SIFTED_ORE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+MAKESHIFT_SMELTERY:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+SMELTERY:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+  fire-breaking-chance: 34
+IGNITION_CHAMBER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+PRESSURE_CHAMBER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+BATTERY:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+GLOWSTONE_HELMET:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+GLOWSTONE_CHESTPLATE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+GLOWSTONE_LEGGINGS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+GLOWSTONE_BOOTS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+RAINBOW_HELMET:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+RAINBOW_CHESTPLATE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+RAINBOW_LEGGINGS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+RAINBOW_BOOTS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+DAMASCUS_STEEL_HELMET:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+DAMASCUS_STEEL_CHESTPLATE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+DAMASCUS_STEEL_LEGGINGS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+DAMASCUS_STEEL_BOOTS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+REINFORCED_ALLOY_HELMET:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+REINFORCED_ALLOY_CHESTPLATE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+REINFORCED_ALLOY_LEGGINGS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+REINFORCED_ALLOY_BOOTS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+CACTUS_HELMET:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+CACTUS_CHESTPLATE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+CACTUS_LEGGINGS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+CACTUS_BOOTS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+REINFORCED_ALLOY_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+HARDENED_METAL_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+DAMASCUS_STEEL_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+STEEL_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+BRONZE_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+DURALUMIN_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+BILLON_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+BRASS_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+ALUMINUM_BRASS_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+ALUMINUM_BRONZE_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+CORINTHIAN_BRONZE_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+SOLDER_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+SYNTHETIC_SAPPHIRE:
+  enabled: true
+  can-be-used-in-workbenches: true
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+SYNTHETIC_DIAMOND:
+  enabled: true
+  can-be-used-in-workbenches: true
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+RAW_CARBONADO:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+NICKEL_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+COBALT_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+CARBONADO:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+FERROSILICON:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+IRON_DUST:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+GOLD_DUST:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+COPPER_DUST:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+TIN_DUST:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+SILVER_DUST:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+LEAD_DUST:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+ALUMINUM_DUST:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+ZINC_DUST:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+MAGNESIUM_DUST:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+COPPER_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+TIN_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+SILVER_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+LEAD_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+ALUMINUM_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+ZINC_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+MAGNESIUM_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+SULFATE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+CARBON:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+WHEAT_FLOUR:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+STEEL_PLATE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+COMPRESSED_CARBON:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+CARBON_CHUNK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+STEEL_THRUSTER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+POWER_CRYSTAL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+DURALUMIN_JETPACK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+SOLDER_JETPACK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+BILLON_JETPACK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+STEEL_JETPACK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+DAMASCUS_STEEL_JETPACK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+REINFORCED_ALLOY_JETPACK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+CARBONADO_JETPACK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+ARMORED_JETPACK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+PARACHUTE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+HOLOGRAM_PROJECTOR:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+CHAIN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+HOOK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+GRAPPLING_HOOK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+  despawn-seconds: 60
+  consume-on-use: true
+MAGIC_WORKBENCH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+STAFF_ELEMENTAL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+STAFF_ELEMENTAL_WIND:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+  power: 4
+STAFF_ELEMENTAL_WATER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+STAFF_ELEMENTAL_FIRE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: false
+DURALUMIN_MULTI_TOOL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+  mode:
+    '1':
+      enabled: true
+      item: MAGIC_EYE_OF_ENDER
+    '0':
+      enabled: true
+      item: PORTABLE_CRAFTER
+    '3':
+      enabled: true
+      item: GRAPPLING_HOOK
+    '2':
+      item: STAFF_ELEMENTAL_WIND
+      enabled: true
+SOLDER_MULTI_TOOL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+  mode:
+    '0':
+      enabled: true
+      item: PORTABLE_CRAFTER
+    '1':
+      item: MAGIC_EYE_OF_ENDER
+      enabled: true
+    '3':
+      item: GRAPPLING_HOOK
+      enabled: true
+    '2':
+      item: STAFF_ELEMENTAL_WIND
+      enabled: true
+BILLON_MULTI_TOOL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+  mode:
+    '2':
+      item: STAFF_ELEMENTAL_WIND
+      enabled: true
+    '3':
+      enabled: true
+      item: GRAPPLING_HOOK
+    '0':
+      enabled: true
+      item: PORTABLE_CRAFTER
+    '1':
+      item: MAGIC_EYE_OF_ENDER
+      enabled: true
+STEEL_MULTI_TOOL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+  mode:
+    '2':
+      enabled: true
+      item: STAFF_ELEMENTAL_WIND
+    '3':
+      item: GRAPPLING_HOOK
+      enabled: true
+    '0':
+      enabled: true
+      item: PORTABLE_CRAFTER
+    '1':
+      enabled: true
+      item: MAGIC_EYE_OF_ENDER
+DAMASCUS_STEEL_MULTI_TOOL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+  mode:
+    '2':
+      item: STAFF_ELEMENTAL_WIND
+      enabled: true
+    '3':
+      enabled: true
+      item: GRAPPLING_HOOK
+    '0':
+      item: PORTABLE_CRAFTER
+      enabled: true
+    '1':
+      item: MAGIC_EYE_OF_ENDER
+      enabled: true
+REINFORCED_ALLOY_MULTI_TOOL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+  mode:
+    '3':
+      item: GRAPPLING_HOOK
+      enabled: true
+    '0':
+      item: PORTABLE_CRAFTER
+      enabled: true
+    '1':
+      enabled: true
+      item: MAGIC_EYE_OF_ENDER
+    '2':
+      item: STAFF_ELEMENTAL_WIND
+      enabled: true
+CARBONADO_MULTI_TOOL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+  mode:
+    '5':
+      enabled: true
+      item: NETHER_GOLD_PAN
+    '1':
+      item: MAGIC_EYE_OF_ENDER
+      enabled: true
+    '0':
+      enabled: true
+      item: PORTABLE_CRAFTER
+    '4':
+      enabled: true
+      item: GOLD_PAN
+    '3':
+      item: GRAPPLING_HOOK
+      enabled: true
+    '2':
+      item: STAFF_ELEMENTAL_WIND
+      enabled: true
+ORE_WASHER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+GOLD_24K:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+GOLD_22K:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+GOLD_20K:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+GOLD_18K:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+GOLD_16K:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+GOLD_14K:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+GOLD_12K:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+GOLD_10K:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+GOLD_8K:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+GOLD_6K:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+GOLD_4K:
+  enabled: true
+  can-be-used-in-workbenches: true
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+STONE_CHUNK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+SILICON:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+SOLAR_PANEL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+SOLAR_HELMET:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+  charge-amount: 0.1
+LAVA_CRYSTAL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+STAFF_ELEMENTAL_STORM:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+MAGICAL_ZOMBIE_PILLS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+SMELTERS_PICKAXE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+COMMON_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+ANVIL_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+ENDER_ANVIL_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+MINER_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+ENDER_MINER_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+FARMER_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+ENDER_FARMER_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+HUNTER_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+ENDER_HUNTER_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+LAVA_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+ENDER_LAVA_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+WATER_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+ENDER_WATER_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+ANGEL_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+ENDER_ANGEL_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+FIRE_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+ENDER_FIRE_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+MAGICIAN_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+  allow-enchantments:
+    enchantmentplus:
+      experience_boost:
+        level:
+          '5': true
+          '2': true
+          '1': true
+          '4': true
+          '3': true
+      entity_reach:
+        level:
+          '2': true
+          '3': true
+          '1': true
+          '4': true
+          '5': true
+      swirling:
+        level:
+          '1': true
+          '2': true
+          '3': true
+          '4': true
+          '5': true
+          '6': true
+          '7': true
+          '8': true
+          '9': true
+          '10': true
+      decaying:
+        level:
+          '2': true
+          '1': true
+          '8': true
+          '7': true
+          '9': true
+          '4': true
+          '3': true
+          '6': true
+          '5': true
+          '10': true
+      leaping:
+        level:
+          '3': true
+          '1': true
+          '2': true
+      retribution:
+        level:
+          '3': true
+          '2': true
+          '5': true
+          '4': true
+          '7': true
+          '6': true
+          '9': true
+          '8': true
+          '1': true
+          '10': true
+      torment:
+        level:
+          '1': true
+          '2': true
+          '3': true
+          '4': true
+          '5': true
+          '6': true
+          '7': true
+          '8': true
+          '9': true
+          '10': true
+      soaring:
+        level:
+          '1': true
+      venomous:
+        level:
+          '4': true
+          '3': true
+          '6': true
+          '5': true
+          '8': true
+          '7': true
+          '9': true
+          '2': true
+          '1': true
+          '10': true
+      icy:
+        level:
+          '1': true
+          '6': true
+          '7': true
+          '8': true
+          '9': true
+          '2': true
+          '3': true
+          '4': true
+          '5': true
+          '10': true
+      beheading:
+        level:
+          '1': true
+          '2': true
+          '3': true
+          '4': true
+          '5': true
+          '6': true
+          '7': true
+          '8': true
+          '9': true
+          '10': true
+      flight_extender:
+        level:
+          '1': true
+          '2': true
+          '3': true
+          '4': true
+          '5': true
+      health_boost:
+        level:
+          '3': true
+          '4': true
+          '5': true
+          '1': true
+          '2': true
+      divine_hunter:
+        level:
+          '1': true
+          '2': true
+          '3': true
+          '4': true
+      prosperous:
+        level:
+          '3': true
+          '4': true
+          '1': true
+          '2': true
+      amplified_shot:
+        level:
+          '10': true
+          '4': true
+          '3': true
+          '2': true
+          '1': true
+          '9': true
+          '8': true
+          '7': true
+          '6': true
+          '5': true
+      weakening:
+        level:
+          '7': true
+          '6': true
+          '5': true
+          '4': true
+          '3': true
+          '2': true
+          '1': true
+          '9': true
+          '8': true
+          '10': true
+      combustion:
+        level:
+          '10': true
+          '2': true
+          '3': true
+          '1': true
+          '6': true
+          '7': true
+          '4': true
+          '5': true
+          '8': true
+          '9': true
+      shield_slam:
+        level:
+          '1': true
+      radiance_gust:
+        level:
+          '1': true
+      thermal_plating:
+        level:
+          '1': true
+      soul_enriching:
+        level:
+          '1': true
+      heros_landing:
+        level:
+          '1': true
+      soul_reserve:
+        level:
+          '3': true
+          '1': true
+          '2': true
+      lightweight:
+        level:
+          '3': true
+          '2': true
+          '1': true
+      cleansing:
+        level:
+          '10': true
+          '9': true
+          '7': true
+          '8': true
+          '5': true
+          '6': true
+          '3': true
+          '4': true
+          '1': true
+          '2': true
+      eternity:
+        level:
+          '1': true
+      diverse_slayer:
+        level:
+          '10': true
+          '3': true
+          '2': true
+          '5': true
+          '4': true
+          '1': true
+          '7': true
+          '6': true
+          '9': true
+          '8': true
+      eyes_of_owl:
+        level:
+          '1': true
+      shrinked:
+        level:
+          '1': true
+          '2': true
+          '3': true
+      curse_of_aww_man:
+        level:
+          '1': true
+      compressing:
+        level:
+          '1': true
+      devouring:
+        level:
+          '10': true
+          '1': true
+          '3': true
+          '2': true
+          '5': true
+          '4': true
+          '7': true
+          '6': true
+          '9': true
+          '8': true
+      air_burst:
+        level:
+          '1': true
+          '2': true
+          '3': true
+      shock_dampener:
+        level:
+          '1': true
+      ore_excavation:
+        level:
+          '1': true
+      blessing_of_kings:
+        level:
+          '2': true
+          '1': true
+          '3': true
+      exploding_impact:
+        level:
+          '1': true
+          '2': true
+          '3': true
+      enraged:
+        level:
+          '3': true
+          '2': true
+          '1': true
+      enlarged:
+        level:
+          '3': true
+          '2': true
+          '1': true
+      high_step:
+        level:
+          '2': true
+          '3': true
+          '1': true
+          '4': true
+          '5': true
+      indestructible:
+        level:
+          '1': true
+      lumberjack:
+        level:
+          '1': true
+      earthly_gatherer:
+        level:
+          '1': true
+      deflect:
+        level:
+          '4': true
+          '2': true
+          '3': true
+          '1': true
+      lava_walker:
+        level:
+          '2': true
+          '3': true
+          '1': true
+          '4': true
+      vampiric_bite:
+        level:
+          '2': true
+          '1': true
+          '3': true
+      curse_of_clumsiness:
+        level:
+          '1': true
+      soul_rend:
+        level:
+          '1': true
+          '3': true
+          '2': true
+      curse_of_breaking:
+        level:
+          '1': true
+      traveler:
+        level:
+          '1': true
+          '3': true
+          '2': true
+          '5': true
+          '4': true
+      steadfast_spikes:
+        level:
+          '1': true
+          '4': true
+          '2': true
+          '3': true
+      voidfused:
+        level:
+          '10': true
+          '8': true
+          '9': true
+          '6': true
+          '7': true
+          '4': true
+          '5': true
+          '2': true
+          '3': true
+          '1': true
+      feeding_module:
+        level:
+          '1': true
+      soul_exchange:
+        level:
+          '1': true
+      block_reach:
+        level:
+          '5': true
+          '4': true
+          '1': true
+          '3': true
+          '2': true
+    minecraft:
+      efficiency:
+        level:
+          '10': true
+          '1': true
+          '2': true
+          '3': true
+          '4': true
+          '5': true
+          '6': true
+          '7': true
+          '8': true
+          '9': true
+      protection:
+        level:
+          '6': true
+          '2': true
+          '3': true
+          '4': true
+          '5': true
+          '1': true
+      multishot:
+        level:
+          '1': true
+      frost_walker:
+        level:
+          '4': true
+          '2': true
+          '3': true
+          '1': true
+      smite:
+        level:
+          '5': true
+          '6': true
+          '7': true
+          '8': true
+          '9': true
+          '1': true
+          '2': true
+          '3': true
+          '4': true
+          '10': true
+      breach:
+        level:
+          '4': true
+          '5': true
+          '2': true
+          '3': true
+          '1': true
+          '6': true
+      channeling:
+        level:
+          '1': true
+      looting:
+        level:
+          '6': true
+          '5': true
+          '4': true
+          '3': true
+          '2': true
+          '1': true
+      loyalty:
+        level:
+          '4': true
+          '3': true
+          '6': true
+          '5': true
+          '2': true
+          '1': true
+      wind_burst:
+        level:
+          '5': true
+          '4': true
+          '3': true
+          '2': true
+          '1': true
+          '6': true
+      impaling:
+        level:
+          '10': true
+          '8': true
+          '9': true
+          '6': true
+          '7': true
+          '4': true
+          '5': true
+          '2': true
+          '3': true
+          '1': true
+      thorns:
+        level:
+          '4': true
+          '3': true
+          '6': true
+          '5': true
+          '2': true
+          '1': true
+      aqua_affinity:
+        level:
+          '1': true
+      bane_of_arthropods:
+        level:
+          '10': true
+          '8': true
+          '9': true
+          '6': true
+          '7': true
+          '4': true
+          '5': true
+          '2': true
+          '3': true
+          '1': true
+      binding_curse:
+        level:
+          '1': true
+      sharpness:
+        level:
+          '9': true
+          '8': true
+          '5': true
+          '4': true
+          '7': true
+          '6': true
+          '1': true
+          '3': true
+          '2': true
+          '10': true
+      respiration:
+        level:
+          '4': true
+          '3': true
+          '2': true
+          '1': true
+          '6': true
+          '5': true
+      sweeping_edge:
+        level:
+          '5': true
+          '6': true
+          '3': true
+          '4': true
+          '1': true
+          '2': true
+      density:
+        level:
+          '10': true
+          '3': true
+          '4': true
+          '1': true
+          '2': true
+          '9': true
+          '7': true
+          '8': true
+          '5': true
+          '6': true
+      unbreaking:
+        level:
+          '1': true
+          '2': true
+          '5': true
+          '6': true
+          '3': true
+          '4': true
+      knockback:
+        level:
+          '4': true
+          '2': true
+          '3': true
+          '1': true
+      mending:
+        level:
+          '1': true
+      soul_speed:
+        level:
+          '2': true
+          '3': true
+          '1': true
+          '6': true
+          '4': true
+          '5': true
+      depth_strider:
+        level:
+          '3': true
+          '2': true
+          '1': true
+      power:
+        level:
+          '8': true
+          '9': true
+          '1': true
+          '2': true
+          '3': true
+          '4': true
+          '5': true
+          '6': true
+          '7': true
+          '10': true
+      fortune:
+        level:
+          '1': true
+          '2': true
+          '3': true
+          '4': true
+          '5': true
+          '6': true
+      fire_aspect:
+        level:
+          '4': true
+          '1': true
+          '3': true
+          '2': true
+      quick_charge:
+        level:
+          '2': true
+          '1': true
+          '4': true
+          '3': true
+          '5': true
+      infinity:
+        level:
+          '1': true
+      feather_falling:
+        level:
+          '1': true
+          '8': true
+          '6': true
+          '7': true
+          '4': true
+          '5': true
+          '2': true
+          '3': true
+      riptide:
+        level:
+          '6': true
+          '3': true
+          '2': true
+          '5': true
+          '4': true
+          '1': true
+      vanishing_curse:
+        level:
+          '1': true
+      blast_protection:
+        level:
+          '5': true
+          '6': true
+          '3': true
+          '4': true
+          '1': true
+          '2': true
+      lure:
+        level:
+          '1': true
+          '2': true
+          '5': true
+          '3': true
+          '4': true
+      flame:
+        level:
+          '1': true
+      piercing:
+        level:
+          '1': true
+          '5': true
+          '4': true
+          '3': true
+          '2': true
+          '8': true
+          '7': true
+          '6': true
+      projectile_protection:
+        level:
+          '5': true
+          '4': true
+          '3': true
+          '2': true
+          '1': true
+          '6': true
+      luck_of_the_sea:
+        level:
+          '1': true
+          '2': true
+          '3': true
+          '4': true
+          '5': true
+          '6': true
+      silk_touch:
+        level:
+          '1': true
+      punch:
+        level:
+          '1': true
+          '2': true
+          '3': true
+          '4': true
+      fire_protection:
+        level:
+          '1': true
+          '2': true
+          '3': true
+          '4': true
+          '5': true
+          '6': true
+      swift_sneak:
+        level:
+          '3': true
+          '4': true
+          '1': true
+          '2': true
+    nova_structures:
+      wither_coated:
+        level:
+          '3': true
+          '1': true
+          '2': true
+      photosynthesis:
+        level:
+          '1': true
+      antidote:
+        level:
+          '1': true
+      outreach:
+        level:
+          '4': true
+          '3': true
+          '2': true
+          '1': true
+      power:
+        level:
+          '1': true
+          '4': true
+          '5': true
+          '2': true
+          '3': true
+      spiteful:
+        level:
+          '3': true
+          '2': true
+          '1': true
+      piercing:
+        level:
+          '4': true
+          '3': true
+          '2': true
+          '1': true
+      aerials_bane:
+        level:
+          '5': true
+          '2': true
+          '1': true
+          '4': true
+          '3': true
+      gravity:
+        level:
+          '2': true
+          '1': true
+          '3': true
+      ghasted:
+        level:
+          '3': true
+          '2': true
+          '1': true
+      wax_wings:
+        level:
+          '1': true
+      shulker_miniboss:
+        level:
+          '1': true
+      traveler:
+        level:
+          '3': true
+          '2': true
+          '1': true
+      multishot:
+        level:
+          '1': true
+      boss_behaviour:
+        level:
+          '1': true
+      conductivity_curse:
+        level:
+          '1': true
+      shulker_boss:
+        level:
+          '1': true
+      illagers_bane:
+        level:
+          '5': true
+          '1': true
+          '2': true
+          '3': true
+          '4': true
+  allow-enchantment-books: false
+ENDER_MAGICIAN_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+TRAVELLER_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+ENDER_TRAVELLER_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+WARRIOR_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+ENDER_WARRIOR_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+KNIGHT_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+ENDER_KNIGHT_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+CAVEMAN_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+ENDER_CAVEMAN_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+WISE_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+ENDER_WISE_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+GILDED_IRON:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+SYNTHETIC_EMERALD:
+  enabled: true
+  can-be-used-in-workbenches: true
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+CHAIN_HELMET:
+  enabled: true
+  can-be-used-in-workbenches: true
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+CHAIN_CHESTPLATE:
+  enabled: true
+  can-be-used-in-workbenches: true
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+CHAIN_LEGGINGS:
+  enabled: true
+  can-be-used-in-workbenches: true
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+CHAIN_BOOTS:
+  enabled: true
+  can-be-used-in-workbenches: true
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+WHIRLWIND_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+ENDER_WHIRLWIND_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+WIZARD_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+ENDER_WIZARD_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+LUMBER_AXE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+SALT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+HEAVY_CREAM:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+CHEESE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+BUTTER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+GILDED_IRON_HELMET:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+GILDED_IRON_CHESTPLATE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+GILDED_IRON_LEGGINGS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+GILDED_IRON_BOOTS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+REINFORCED_CLOTH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+SCUBA_HELMET:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+HAZMAT_CHESTPLATE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+HAZMAT_LEGGINGS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+RUBBER_BOOTS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+CRUSHED_ORE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+PULVERIZED_ORE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+PURE_ORE_CLUSTER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+TINY_URANIUM:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+SMALL_URANIUM:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+URANIUM:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+REDSTONE_ALLOY:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+GOLD_12K_HELMET:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+GOLD_12K_CHESTPLATE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+GOLD_12K_LEGGINGS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+GOLD_12K_BOOTS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+CLOTH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+RAG:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+BANDAGE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+SPLINT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+CAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+VITAMINS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+MEDICINE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+NIGHT_VISION_GOGGLES:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+PICKAXE_OF_CONTAINMENT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
