@@ -1153,3 +1153,1623 @@ PICKAXE_OF_CONTAINMENT:
   lore:
   - '&rYou do not have the permission'
   - '&rto access this item.'
+TABLE_SAW:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+SLIME_STEEL_HELMET:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+SLIME_STEEL_CHESTPLATE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+SLIME_STEEL_LEGGINGS:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+SLIME_STEEL_BOOTS:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+BLADE_OF_VAMPIRES:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+GOLD_24K_BLOCK:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+COMPOSTER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+FARMER_SHOES:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+EXPLOSIVE_PICKAXE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+EXPLOSIVE_SHOVEL:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+AUTOMATED_PANNING_MACHINE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+INDUSTRIAL_MINER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ADVANCED_INDUSTRIAL_MINER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+BOOTS_OF_THE_STOMPER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+PICKAXE_OF_THE_SEEKER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+SMALL_BACKPACK:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+MEDIUM_BACKPACK:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+LARGE_BACKPACK:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+WOVEN_BACKPACK:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+CRUCIBLE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+GILDED_BACKPACK:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+RADIANT_BACKPACK:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+RESTORED_BACKPACK:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+MAGNET:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+INFUSED_MAGNET:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+COBALT_PICKAXE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+NECROTIC_SKULL:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ESSENCE_OF_AFTERLIFE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+SYNTHETIC_SHULKER_SHELL:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+BOUND_BACKPACK:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+DURALUMIN_JETBOOTS:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+SOLDER_JETBOOTS:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+BILLON_JETBOOTS:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+STEEL_JETBOOTS:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+DAMASCUS_STEEL_JETBOOTS:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+REINFORCED_ALLOY_JETBOOTS:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+CARBONADO_JETBOOTS:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ARMORED_JETBOOTS:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+SEISMIC_AXE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+PICKAXE_OF_VEIN_MINING:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+CLIMBING_PICK:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+SOULBOUND_SWORD:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+SOULBOUND_TRIDENT:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+SOULBOUND_BOW:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+SOULBOUND_PICKAXE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+SOULBOUND_AXE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+SOULBOUND_SHOVEL:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+SOULBOUND_HOE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+SOULBOUND_HELMET:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+SOULBOUND_CHESTPLATE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+SOULBOUND_LEGGINGS:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+SOULBOUND_BOOTS:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+JUICER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+APPLE_JUICE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+CARROT_JUICE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+MELON_JUICE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+PUMPKIN_JUICE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+SWEET_BERRY_JUICE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+GOLDEN_APPLE_JUICE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ENCHANTED_GOLDEN_APPLE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+BROKEN_SPAWNER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+REINFORCED_SPAWNER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ENHANCED_FURNACE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ENHANCED_FURNACE_2:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ENHANCED_FURNACE_3:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ENHANCED_FURNACE_4:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ENHANCED_FURNACE_5:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ENHANCED_FURNACE_6:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ENHANCED_FURNACE_7:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ENHANCED_FURNACE_8:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ENHANCED_FURNACE_9:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ENHANCED_FURNACE_10:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ENHANCED_FURNACE_11:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+REINFORCED_FURNACE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+CARBONADO_EDGED_FURNACE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ELECTRO_MAGNET:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ELECTRIC_MOTOR:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+HEATING_COIL:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+COPPER_WIRE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+BLOCK_PLACER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+SCROLL_OF_DIMENSIONAL_TELEPOSITION:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+EXPLOSIVE_BOW:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ICY_BOW:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+TOME_OF_KNOWLEDGE_SHARING:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+FLASK_OF_KNOWLEDGE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+FILLED_FLASK_OF_KNOWLEDGE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+BIRTHDAY_CAKE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+CHRISTMAS_MILK:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+CHRISTMAS_CHOCOLATE_MILK:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+CHRISTMAS_EGG_NOG:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+CHRISTMAS_APPLE_CIDER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+CHRISTMAS_COOKIE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+CHRISTMAS_FRUIT_CAKE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+CHRISTMAS_APPLE_PIE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+CHRISTMAS_HOT_CHOCOLATE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+CHRISTMAS_CAKE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+CHRISTMAS_CARAMEL:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+CHRISTMAS_CARAMEL_APPLE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+CHRISTMAS_CHOCOLATE_APPLE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+CHRISTMAS_PRESENT:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+CARROT_PIE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+EASTER_APPLE_PIE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+EASTER_EGG:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+REINFORCED_PLATE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+HARDENED_GLASS:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+COOLING_UNIT:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+COOLER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+WITHER_PROOF_OBSIDIAN:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ANCIENT_PEDESTAL:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ANCIENT_ALTAR:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ENERGY_REGULATOR:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ENERGY_CONNECTOR:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+DUCT_TAPE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+SMALL_CAPACITOR:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+MEDIUM_CAPACITOR:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+BIG_CAPACITOR:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+LARGE_CAPACITOR:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+CARBONADO_EDGED_CAPACITOR:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ENERGIZED_CAPACITOR:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+SOLAR_GENERATOR:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+SOLAR_GENERATOR_2:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+SOLAR_GENERATOR_3:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+SOLAR_GENERATOR_4:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+CHARGING_BENCH:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ELECTRIC_FURNACE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ELECTRIC_FURNACE_2:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ELECTRIC_FURNACE_3:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ELECTRIC_GOLD_PAN:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ELECTRIC_GOLD_PAN_2:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ELECTRIC_GOLD_PAN_3:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ELECTRIC_DUST_WASHER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ELECTRIC_DUST_WASHER_2:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ELECTRIC_DUST_WASHER_3:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ELECTRIC_INGOT_FACTORY:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ELECTRIC_INGOT_FACTORY_2:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ELECTRIC_INGOT_FACTORY_3:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ELECTRIFIED_CRUCIBLE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ELECTRIFIED_CRUCIBLE_2:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ELECTRIFIED_CRUCIBLE_3:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ELECTRIC_ORE_GRINDER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ELECTRIC_ORE_GRINDER_2:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ELECTRIC_ORE_GRINDER_3:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+HEATED_PRESSURE_CHAMBER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+HEATED_PRESSURE_CHAMBER_2:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ELECTRIC_INGOT_PULVERIZER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+COAL_GENERATOR:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+COAL_GENERATOR_2:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+BIO_REACTOR:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+AUTO_DRIER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+AUTO_BREWER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ELECTRIC_PRESS:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ELECTRIC_PRESS_2:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+MAGNESIUM_SALT:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+MAGNESIUM_GENERATOR:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+AUTO_ENCHANTER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+AUTO_ENCHANTER_2:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+AUTO_DISENCHANTER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+AUTO_DISENCHANTER_2:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+AUTO_ANVIL:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+AUTO_ANVIL_2:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+BOOK_BINDER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+MULTIMETER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+PLASTIC_SHEET:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ANDROID_MEMORY_CORE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+GPS_TRANSMITTER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+GPS_TRANSMITTER_2:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+GPS_TRANSMITTER_3:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+GPS_TRANSMITTER_4:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+GPS_CONTROL_PANEL:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+GPS_MARKER_TOOL:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+GPS_EMERGENCY_TRANSMITTER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ANDROID_INTERFACE_ITEMS:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ANDROID_INTERFACE_FUEL:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+PROGRAMMABLE_ANDROID:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+PROGRAMMABLE_ANDROID_MINER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+PROGRAMMABLE_ANDROID_FARMER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+PROGRAMMABLE_ANDROID_WOODCUTTER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+PROGRAMMABLE_ANDROID_FISHERMAN:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+PROGRAMMABLE_ANDROID_BUTCHER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+PROGRAMMABLE_ANDROID_2:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+PROGRAMMABLE_ANDROID_2_FISHERMAN:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+PROGRAMMABLE_ANDROID_2_BUTCHER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+PROGRAMMABLE_ANDROID_2_FARMER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+PROGRAMMABLE_ANDROID_3:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+PROGRAMMABLE_ANDROID_3_FISHERMAN:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+PROGRAMMABLE_ANDROID_3_BUTCHER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+BLANK_RUNE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ANCIENT_RUNE_AIR:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ANCIENT_RUNE_EARTH:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ANCIENT_RUNE_FIRE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ANCIENT_RUNE_WATER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ANCIENT_RUNE_ENDER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ANCIENT_RUNE_LIGHTNING:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ANCIENT_RUNE_RAINBOW:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ANCIENT_RUNE_SOULBOUND:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ANCIENT_RUNE_ENCHANTMENT:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+INFERNAL_BONEMEAL:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ELYTRA_SCALE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ELYTRA:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+INFUSED_ELYTRA:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+SOULBOUND_ELYTRA:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+TRIDENT:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+TOTEM_OF_UNDYING:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+RAINBOW_WOOL:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+RAINBOW_GLASS:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+RAINBOW_GLASS_PANE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+RAINBOW_CLAY:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+RAINBOW_CONCRETE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+RAINBOW_GLAZED_TERRACOTTA:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+RAINBOW_WOOL_XMAS:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+RAINBOW_GLASS_XMAS:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+RAINBOW_GLASS_PANE_XMAS:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+RAINBOW_CLAY_XMAS:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+RAINBOW_CONCRETE_XMAS:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+RAINBOW_GLAZED_TERRACOTTA_XMAS:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+RAINBOW_WOOL_VALENTINE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+RAINBOW_GLASS_VALENTINE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+RAINBOW_GLASS_PANE_VALENTINE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+RAINBOW_CLAY_VALENTINE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+RAINBOW_CONCRETE_VALENTINE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+RAINBOW_GLAZED_TERRACOTTA_VALENTINE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+RAINBOW_WOOL_HALLOWEEN:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+RAINBOW_GLASS_HALLOWEEN:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+RAINBOW_GLASS_PANE_HALLOWEEN:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+RAINBOW_CLAY_HALLOWEEN:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+RAINBOW_CONCRETE_HALLOWEEN:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+RAINBOW_GLAZED_TERRACOTTA_HALLOWEEN:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+WITHER_PROOF_GLASS:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+GPS_GEO_SCANNER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+PORTABLE_GEO_SCANNER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+OIL_PUMP:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+GEO_MINER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+BUCKET_OF_OIL:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+BUCKET_OF_FUEL:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+NETHER_ICE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+REFINERY:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+LAVA_GENERATOR:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+LAVA_GENERATOR_2:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+COMBUSTION_REACTOR:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+GPS_TELEPORTER_PYLON:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+GPS_TELEPORTATION_MATRIX:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+PORTABLE_TELEPORTER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+GPS_ACTIVATION_DEVICE_SHARED:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+GPS_ACTIVATION_DEVICE_PERSONAL:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+INFUSED_HOPPER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+BLISTERING_INGOT:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+BLISTERING_INGOT_2:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+BLISTERING_INGOT_3:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ENRICHED_NETHER_ICE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ELEVATOR_PLATE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+FOOD_FABRICATOR:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+FOOD_FABRICATOR_2:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ORGANIC_FOOD_WHEAT:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ORGANIC_FOOD_CARROT:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ORGANIC_FOOD_POTATO:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ORGANIC_FOOD_SEEDS:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ORGANIC_FOOD_BEETROOT:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ORGANIC_FOOD_MELON:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ORGANIC_FOOD_APPLE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ORGANIC_FOOD_SWEET_BERRIES:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ORGANIC_FOOD_KELP:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ORGANIC_FOOD_COCOA:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ORGANIC_FOOD_SEAGRASS:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+AUTO_BREEDER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ANIMAL_GROWTH_ACCELERATOR:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+TREE_GROWTH_ACCELERATOR:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+XP_COLLECTOR:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+FOOD_COMPOSTER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+FOOD_COMPOSTER_2:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+FERTILIZER_WHEAT:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+FERTILIZER_CARROT:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+FERTILIZER_POTATO:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+FERTILIZER_SEEDS:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+FERTILIZER_BEETROOT:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+FERTILIZER_MELON:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+FERTILIZER_APPLE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+FERTILIZER_SWEET_BERRIES:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+FERTILIZER_KELP:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+FERTILIZER_COCOA:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+FERTILIZER_SEAGRASS:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+CROP_GROWTH_ACCELERATOR:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+CROP_GROWTH_ACCELERATOR_2:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+FREEZER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+FREEZER_2:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+FREEZER_3:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+REACTOR_COLLANT_CELL:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+NETHER_ICE_COOLANT_CELL:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+NEPTUNIUM:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+PLUTONIUM:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+BOOSTED_URANIUM:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+NUCLEAR_REACTOR:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+NETHERSTAR_REACTOR:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+CARGO_MOTOR:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+CARGO_MANAGER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+CARGO_NODE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+CARGO_NODE_INPUT:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+CARGO_NODE_OUTPUT:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+CARGO_NODE_OUTPUT_ADVANCED:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+REACTOR_ACCESS_PORT:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+FLUID_PUMP:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+TRASH_CAN_BLOCK:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+CARBON_PRESS:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+CARBON_PRESS_2:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+CARBON_PRESS_3:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ELECTRIC_SMELTERY:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ELECTRIC_SMELTERY_2:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+IRON_GOLEM_ASSEMBLER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+WITHER_ASSEMBLER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+TAPE_MEASURE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+BEE_HELMET:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+BEE_WINGS:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+BEE_LEGGINGS:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+BEE_BOOTS:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ANCIENT_RUNE_VILLAGERS:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+STRANGE_NETHER_GOO:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+GLOW_BERRY_JUICE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ELYTRA_CAP:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+RAINBOW_LEATHER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+CRAFTING_MOTOR:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+VANILLA_AUTO_CRAFTER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ENHANCED_AUTO_CRAFTER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ARMOR_AUTO_CRAFTER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+PRODUCE_COLLECTOR:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
